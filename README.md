@@ -14,7 +14,7 @@ Or download the file manually.
 ## Compilation
 
 ```
-python3 valhalla.py
+python3.6 valhalla.py
 ```
 ## Release History
 
