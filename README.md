@@ -4,6 +4,9 @@
 
 > Repository for vallhalla (discord bot). This bot has many utilities that currently exist/will be added in the future. See the issues and projects page for information pertaining to features.
 
+invite to your server:
+https://discordapp.com/oauth2/authorize?client_id=496771038772723712&scope=bot
+
 ## Installation
 
 ```
@@ -20,6 +23,8 @@ python3.6 valhalla.py
 
 * 0.1
     * Opened Repository (10.01.18)
+* 0.2
+    * converted to discord.py ext commands (10.03.18)
 
 ## Meta
 
