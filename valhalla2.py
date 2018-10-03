@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-TOKEN = 'NDk2NzcxMDM4NzcyNzIzNzEy.DpVk0A.FKI8GwMz-fiLzNYcUgVfwXSOwQE'
+TOKEN = 'XXXXXXXXXXX'
 
 bot = commands.Bot(command_prefix='v ', description="valhalla")
 
