@@ -2,7 +2,7 @@
 
 # valhalla.py
 
-> Repository for vallhalla (discord bot)
+> Repository for vallhalla (discord bot). This bot has many utilities that currently exist/will be added in the future. See the issues and projects page for information pertaining to features.
 
 ## Installation
 
