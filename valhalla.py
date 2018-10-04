@@ -32,4 +32,15 @@ async def roll(ctx, *, val):
 	embed = discord.Embed(title="Current roll (" + val + "-sided) is:", description="🎲 " + str(random.randint(1,int(val))) + " 🎲", color=0xff0000)
 	await bot.send_message(ctx.message.channel, embed=embed)
 
+@bot.command(pass_context=True)
+async def kickornah(ctx):
+	"""decides whether to kick person or not"""
+	randNum = random.randint(0,1)
+	if randNum == 0:
+		embed = discord.Embed(title="The verdict is in:", description="Nah. You have been spared", color=0x00ff00)
+		await bot.send_message(ctx.message.channel, embed=embed)
+	if randNum == 1:
+		embed = discord.Embed(title="The verdict is in:", description="Kick. The decision is final", color=0xff0000)
+		await bot.send_message(ctx.message.channel, embed=embed)
+
 bot.run(TOKEN)
