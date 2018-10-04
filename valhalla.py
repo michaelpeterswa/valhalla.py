@@ -2,7 +2,7 @@ import discord, datetime, time
 from discord.ext import commands
 import random
 
-TOKEN = 'NDk2NzcxMDM4NzcyNzIzNzEy.DpVk0A.FKI8GwMz-fiLzNYcUgVfwXSOwQE'
+TOKEN = 'xxxxxxxxxx'
 
 bot = commands.Bot(command_prefix='v ', description="valhalla")
 
