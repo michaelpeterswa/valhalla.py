@@ -2,7 +2,7 @@
 
 # valhalla.py
 
-> Repository for vallhalla (discord bot). This bot has many utilities that currently exist/will be added in the future. See the issues and projects page for information pertaining to features.
+> Repository for valhalla (discord bot). This bot has many utilities that currently exist/will be added in the future. See the issues and projects page for information pertaining to features.
 
 invite to your server:
 https://discordapp.com/oauth2/authorize?client_id=496771038772723712&scope=bot
